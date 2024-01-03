@@ -1,5 +1,14 @@
-div{
-       
+ img{
+     height: 100px;
+     width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+   
+ }
+ div{
+    font-style: italic;   
     background-color: chartreuse;
     margin: 20px;
     padding: 30px;
@@ -9,6 +18,7 @@ div{
       
 }
   h1{
+    font-style: normal;
     border: 2px solid black;
     border-radius: 100px;
     background-color: rgb(255, 1, 1);
