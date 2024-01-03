@@ -1,3 +1,18 @@
 div{
-    background-color: antiquewhite;
+       
+    background-color: chartreuse;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 100px;
+    border: 5px solid rgba(1, 88, 250, 0.555);
+    box-shadow: 5px 5px 5px violet;
+      
 }
+  h1{
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: rgb(255, 1, 1);
+    color: rgb(3, 254, 229);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+  }
